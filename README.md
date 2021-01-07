@@ -1,1 +1,1 @@
-# mvvmTools
+# Android Studio 项目中使用databinding功能开发mvvm框架的Tools
